@@ -63,7 +63,7 @@ Most orders are delivered within 1–3 days.
 | Project_Report.pdf | Project Documentation |
 ---
 ## Dashboard Preview
-![Zudio Dashboard](assets/dashboard_preview.png)
+![Zudio Dashboard](dashboard_preview.png)
 ## Project Overview
 Interactive Excel dashboard analyzing:
 - Sales Performance
