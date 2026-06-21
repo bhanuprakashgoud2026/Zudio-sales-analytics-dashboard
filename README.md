@@ -63,8 +63,15 @@ Most orders are delivered within 1–3 days.
 | Project_Report.pdf | Project Documentation |
 ---
 ## Dashboard Preview
-Add dashboard screenshot here after uploading.
----
+![Zudio Dashboard](assets/dashboard_preview.png)
+## Project Overview
+Interactive Excel dashboard analyzing:
+- Sales Performance
+- Customer Behavior
+- Product Popularity
+- Delivery Metrics
+- Gender-wise Purchases
 ## Author
 Bhanu Prakash
 
+ 
